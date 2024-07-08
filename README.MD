@@ -5,3 +5,5 @@
 Para ejecutar el sistmea, debes poner:
 
 '''npm install reac'''
+
+sistema de registro 2
